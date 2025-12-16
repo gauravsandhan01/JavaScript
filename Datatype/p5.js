@@ -3,7 +3,7 @@ function checkValue(value){
         console.log("type: number");
     }
 
-    else if(typeof value === Boolean){
+    else if(typeof value === "Boolean"){
         console.log("type: Boolean");
     }
 
